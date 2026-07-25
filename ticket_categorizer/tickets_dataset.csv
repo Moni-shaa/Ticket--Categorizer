@@ -1,0 +1,41 @@
+subject,body,category
+Invoice discrepancy this month,My invoice this month shows an extra charge of $50 that I do not recognize. Please review my billing statement and refund the incorrect amount.,Billing
+Unable to update credit card,I am trying to update my credit card details on the payment page but it keeps failing. Can you help me fix my billing information?,Billing
+Refund not received yet,I cancelled my subscription two weeks ago and was promised a refund but I still have not received the money in my account.,Billing
+Double charged for subscription,I was charged twice for my monthly plan this billing cycle. Please refund the duplicate charge as soon as possible.,Billing
+Question about invoice total,Why is my invoice total higher than last month? I did not upgrade my plan so I am confused about the extra fees.,Billing
+Payment failed error,My payment failed during checkout even though my card has sufficient funds. Please check my billing account and let me know what went wrong.,Billing
+Need a copy of past receipts,Can you send me copies of my receipts from the last three months for my accounting records?,Billing
+Subscription auto-renewed unexpectedly,My subscription auto renewed and I was charged before I could cancel. I would like a refund for this billing cycle.,Billing
+Wrong plan billed,I was billed for the premium plan but I signed up for the basic plan. Please correct my invoice and adjust the charge.,Billing
+Tax invoice request,I need a GST tax invoice for my last payment for company reimbursement purposes.,Billing
+App crashes on login,Every time I try to log in to the mobile app it crashes immediately. I have reinstalled it twice but the issue persists.,Technical
+Server is down,Our production server has been down for the last hour and none of our services are responding. This is urgent.,Technical
+Error 500 on checkout page,I keep getting a 500 internal server error when I try to check out on the website. Please fix this bug.,Technical
+Cannot connect to database,The application throws a database connection timeout error whenever I try to load the dashboard.,Technical
+API returning wrong data,The API endpoint for user data is returning null values for fields that should have data. Something seems broken.,Technical
+Website not loading,The website has been extremely slow and sometimes does not load at all for the past two days.,Technical
+Password reset link not working,I clicked the password reset link in my email but it says the link has expired even though I just requested it.,Technical
+Feature not saving changes,Whenever I edit my profile settings and click save the changes do not persist and revert back.,Technical
+Mobile app not syncing,My data on the mobile app is not syncing with the web version and I am losing my recent edits.,Technical
+Integration broken after update,After the latest software update our third party integration stopped working and is throwing connection errors.,Technical
+Request for leave approval,I would like to request annual leave from next Monday to Friday. Please let me know if this is approved.,HR
+Question about health insurance,Can someone from HR explain the details of our new health insurance policy and how to add a dependent?,HR
+Payroll discrepancy this month,My salary this month seems lower than usual and I think there might be an error in my payroll calculation.,HR
+Onboarding documents needed,I am a new employee starting next week and I have not yet received my onboarding paperwork and offer letter.,HR
+Request for employment verification letter,I need an employment verification letter from HR for a loan application. Could you please issue one?,HR
+Maternity leave policy question,Could you share the details of the company's maternity leave policy and how many weeks are covered?,HR
+Complaint about workplace conduct,I want to file a formal complaint regarding a coworker's behavior in our department and request HR to look into it.,HR
+Update my bank details for salary,I recently changed banks and need to update my bank account details for salary deposits with HR.,HR
+Performance review schedule,When is my next performance review scheduled and who will be conducting it this cycle?,HR
+Resignation letter submission,I would like to formally submit my resignation letter with a two week notice period effective today.,HR
+General inquiry about office hours,What are the current office working hours and is the office open on public holidays?,General
+Question about company policy,I have a general question about the company's remote work policy and whether it has changed recently.,General
+Feedback on your service,I just wanted to share some general feedback about my overall experience using your platform this year.,General
+Request for product brochure,Could you send me a general brochure with information about all your available products and services?,General
+How do I contact support,I am not sure who to reach out to for my issue. Can you point me to the right department or contact?,General
+Suggestion for new feature,I have an idea for a new feature that I think would improve the product. Where can I submit suggestions?,General
+Partnership opportunity inquiry,We are interested in exploring a potential partnership with your company and would like more information.,General
+Event invitation question,I received an invitation to your upcoming webinar and wanted to confirm the date and time of the event.,General
+Media inquiry about company,I am a journalist writing an article about your company and would like to schedule an interview.,General
+General thank you note,I just wanted to say thank you for the great support I have received over the past few months.,General
